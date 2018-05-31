@@ -1,0 +1,323 @@
+html , body {
+	width:auto;
+	height:auto;
+	margin:0px;
+	padding:0px;
+	overflow-x:hidden;
+
+}
+.nav-bari {
+	margin-bottom:33px;
+	height:286px;
+	background-color:#302340;
+	padding-top:33px;
+	
+	
+}
+.nav-bari ul {
+	margin:0 auto;
+	list-style-type:none;
+	padding-left:620px;
+	font-family:"Myriad Pro Regular";
+	font-size:16px;
+
+}
+
+.nav-bari ul li {
+	display:inline;
+
+}
+
+.home,
+.researches,
+.services,
+.events{  
+	border-right:1px solid #80619b;
+	padding-right:1px;	
+}
+
+.AboutUs {
+	border-left:1px solid #80619b;
+	position:relative;
+	left:5px;
+	
+}
+
+
+
+#c1 {
+	position:relative;
+	left:20px;
+	top:0px;
+}
+
+.sciencellogo img {
+	position:relative;
+	bottom:330px;
+	left:69px
+}
+
+#p1 {
+	position:relative;
+    right:1100px;
+    bottom:369px;
+    color:#e5e5e5;
+	font-weight:bold;
+	font-size:40px;
+	font-family:"Arial Regular";
+	
+
+}
+
+#p1 {
+	float:right;
+	clear:right;
+}
+
+.dics h2 {
+	position:relative;
+	left:69px;
+	bottom:340px;
+	color:#ffffff;
+	font-family:"Myriad Pro Regular";
+	font-size:40px;
+}
+
+#p2 {
+	position:relative;
+	left:69px;
+	bottom:348px;
+	color:#9688a7;
+	font-size:13px;
+	line-height:18px;
+	padding-top:0px;
+	font-family:"Arial Regular";
+}
+
+#p2 a {
+	text-decoration:none;
+	color:#a369c4;
+	font-size:13px;
+}
+
+
+
+li a {
+	text-decoration:none;
+	color:#9e90ad;
+	padding-left:15px;
+	padding-right:15px;
+}
+
+ul li a button {
+	color:#674086;
+} 
+
+.Logo {
+	padding-left:720px;
+	padding-top:16px;
+}
+
+.secondpart  {
+	background-color: #f5f5f5; 
+    margin-top:-50px;
+    height:280px;
+    font-family:"Arial Regular";
+    font-size:13px;
+
+}
+
+#firsth {
+	position:relative;
+	left:930px;
+	top:50px;
+	color:#4e4e4e;
+}
+
+#firstp {
+	position:relative;
+	left:930px;
+	top:45px;
+	color:#4e4e4e;
+}
+
+#secondh {
+	position:relative;
+	bottom:177px;
+	left:560px;
+	color:#4e4e4e;
+}
+#secondp {
+	position:relative;
+	bottom:185px;
+	left:560px;
+	color:#4e4e4e;
+}
+
+#second {
+	position:relative;
+	top:35px;
+	left:930px;
+	color:#a369c4;
+	font-size:13px;
+}
+
+#thirdh {
+	position:relative;
+	bottom:410px;
+	left:200px;
+	color:#4e4e4e;
+}
+
+#thirdp {
+	position:relative;
+	bottom:417px;
+	left:200px;
+	color:#4e4e4e;
+}
+
+#third {
+	position:relative;
+	left:561px;
+	bottom:196px;
+	color:#a369c4;
+	font-size:13px;
+
+}
+
+#fourth {
+	position:relative;
+	bottom:428px;
+	left:201px;
+	color:#a369c4;
+	font-size:13px;
+}
+
+#firsts1 img {
+	position:relative;
+	top:40px;
+	left:930px;
+	margin:0px;
+	padding:0px;
+
+
+}
+
+#firsts1 p {
+	position:relative;
+	top:30px;
+	left:1010px;
+	color:#4e4e4e;
+}
+
+#seconds1 img {
+	position:relative;
+	bottom:254px;
+	left:560px;
+	width:295px;
+	height:240px
+
+}
+
+#seconds1 p {
+	position:relative;
+	left:670px;
+	bottom:262px;
+	color:#4e4e4e;
+}
+
+#thirds1 img {
+	position:relative;
+    left:190px;
+    bottom:546px;
+	width:295px;
+	height:240px
+}
+
+#thirds1 p {
+	position:relative;
+	left:280px;
+	bottom:555px;
+	color:#4e4e4e;
+}
+
+#h2-shi {
+	position:relative;
+	bottom:880px;
+	left:188px;
+	color:#302340;
+    font-weight:bold
+    
+}
+
+.jumbo2 {
+	background-color: #f5f5f5; 
+    color: black;
+    position:relative;
+
+	height:45px;
+	padding-left:80px;
+    padding-top:20px;
+    font-size:13px;
+    font-family:"Arial Regular";
+}
+
+.jumbo2 ul {
+	margin:0 auto;
+	
+	
+}
+
+.jumbo2 ul li {
+	display:inline;
+	
+
+}
+.jumbo2 li a {
+	
+	color:#4e4e4e;
+	padding-left:60px;
+	padding-right:60px;
+
+}
+
+
+.AboutUUs{
+	border-left:1px solid #80619b;
+	padding-right:1px;
+}
+
+.end {
+	color:#a369c4;
+	height:86px;
+	background-color:#302340;
+	padding-left:550px;
+	padding-top:31px;
+	position:relative;
+	
+}
+
+ 
+ .a2 {
+ 	padding-left:53px;
+ }
+
+ .end a {
+ 	color:#a369c4;
+ }
+
+ .thirdpart {
+ 	height: auto;
+ }
+
+#slideri{
+	position:relative;
+	left:120px;
+	bottom:70px;
+}
+
+#sliderih2{
+  position:relative;
+  bottom:75px;
+  left:120px;
+}

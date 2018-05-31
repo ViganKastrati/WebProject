@@ -1,0 +1,330 @@
+html, body {
+	width:auto;
+	height:auto;
+	margin:0px;
+	padding:0px
+	
+}
+
+
+.nav-bari {
+	margin-bottom:33px;
+	height:390px;
+	background-color:#302340;
+	padding-top:33px;
+
+	
+}
+.nav-bari ul {
+	margin:0 auto;
+	list-style-type:none;
+	padding-left:636px;
+	font-family:"Myriad Pro Regular";
+	font-size:16px;
+
+}
+
+.nav-bari ul li {
+	display:inline;
+
+}
+
+.orallogo{
+	padding-top:25px;
+	padding-left:755px;
+}
+
+.sciencellogo {
+	position:relative;
+	bottom:520px;
+	padding-left:197px;
+}
+#p1 {
+	padding-left:68px;
+	position:relative;
+	bottom:93px;
+	color:#e5e5e5;
+	font-weight:bold;
+	font-size:40px;
+	font-family:"Arial Regular";
+}
+.nav-bari h2 {
+	position:relative;
+	bottom:96px;
+	color:#ffffff;
+	font-family:"Myriad Pro Regular";
+	font-size:40px;
+
+}
+#p2 {
+	position:relative;
+	bottom:110px;
+	color:#9688a7;
+	font-size:13px;
+	line-height:18px;
+	padding-top:0px;
+	font-family:"Arial Regular";
+
+
+}
+#p2 a {
+	text-decoration:none;
+	color:#a369c4;
+}
+
+.home,
+.researches,
+.services,
+.events {
+	border-right:1px solid #80619b;
+	padding-right:1px;	
+}
+
+.AboutUs{
+	border-left:1px solid #80619b;
+	padding-right:1px;
+}
+
+
+
+
+
+
+li a {
+	text-decoration:none;
+	color:#9e90ad;
+	padding-left:15px;
+	padding-right:15px;
+}
+
+ul li a button {
+	color:#674086;
+
+} 
+
+.jumbo {
+    
+    background-color: #f5f5f5; 
+    color: black;
+    margin-top:-50px;
+    height:165px;
+    font-size:13px;
+
+}
+
+ .jumbo .b1 {
+ 	padding-left:189px;
+ 	padding-top:30px;
+
+ }
+
+ .jumbo .b2 {
+ 	padding-left:189px;
+ 	padding-top:2px;
+ 	
+ }
+
+ .jumbo .b1 p {
+ 	color:#4e4e4e;
+ 	padding-left:45px;
+ 	margin-top:-30px;
+ }
+
+ .jumbo .b2 p {
+ 	color:#4e4e4e;
+ 	padding-left:45px;
+ 	margin-top:-30px;
+ }
+
+.div3 .h1-shi{
+	color:#4e4e4e;
+	padding-top:29px;
+
+}
+
+#temp,
+#temp1 {
+	font-family:"Arial Unicode MS Regular";
+	font-size:13px;
+}
+#temp a,
+#temp1 a {
+	color:#a369c4;
+
+}
+
+.h1-shi {
+	margin-top:-295px;
+	margin-left:195px;
+	font-family:"Arial Unicode MS Regular";
+}
+
+.foto1 {
+	padding-top:29px;
+	color:#959595;
+	padding-left:925px;
+
+}
+
+.foto2 {
+	color:#959595;
+	padding-left:728px;
+    margin-top:-261.5px;
+
+ }
+ .foto2 , .foto1  {
+ 	font-size:13px
+
+ }
+
+ .foto1 a,
+ .foto2 a {
+ 	color:#a369c4;
+ }
+
+ .p1div3{
+ 	font-size:13px;
+ 	font-family:"Arial Unicode MS Regular";
+ }
+
+ #sed,
+ #sed1 {
+ 	font-family:"Arial Regular";
+ 	font-size:13px;
+ 	position:relative;
+ 	bottom:7px;
+ }
+ 
+ .href {
+ 	position:relative;
+ 	bottom:15px;
+ }
+.p1div3 a {
+	color:#a369c4;
+}
+
+ .div3 {
+ 	line-height:25px;
+ }
+
+ .foto3 {
+ 	padding-top:46px;
+ 	padding-left:832px;
+ 	font-size:13px;
+ }
+
+ .foto3 p {
+ 	color:#4e4e4e;
+ 	padding-left:15px;
+ 	font-family:"Arial Regular";
+ 	font-size:13px;
+ 	line-height:17.8px;
+ }
+
+ .div4 .foto3 a {
+	padding-left:15px;
+	position:relative;
+ 	top:1px;
+ 	font-size:14px;
+}
+
+#read {
+	color:#a369c4;
+}
+
+.linkat {
+	color:#a369c4;
+	font-size:13px;
+}
+ .foto4 {
+
+ 	color:#4e4e4e;
+ 	margin-top:-250px;
+ 	padding-left:519px;
+    font-family:"Arial Regular";
+ 	
+ }
+ #playbutton1, 
+ #playbutton2,
+ #playbutton3,
+ #playbutton4,
+ #playbutton5,
+ #playbutton6 {
+    font-size:13px;
+ 	padding-top:10px;
+ }
+
+ .foto5 {
+ 	margin-top:-251.5px;
+    color:#4e4e4e;
+    margin-left:-320px;
+ }
+
+ .foto5 p{
+ 	font-family:"Arial Regular";
+ 	font-size:13px;
+ 	line-height:17.8px;
+ }
+
+ .div4 .foto5 a {
+	padding-left:15px;
+	position:relative;
+ 	top:0px;
+ 	font-size:13px;
+}
+  .div4 .foto5 p {
+  	font-size:13px;
+	padding-left:15px;
+
+}
+
+.jumbo2 {
+    background-color: #f5f5f5; 
+    color: black;
+    margin-top:56px;
+    height:35px;
+    padding-left:180px;
+    padding-top:20px;
+    font-size:13px;
+    font-family:"Arial Regular";
+
+}
+
+.jumbo2 ul {
+	margin:0 auto;
+	
+	
+}
+
+.jumbo2 ul li {
+	display:inline;
+	
+
+}
+.jumbo2 li a {
+	
+	color:#4e4e4e;
+	padding-left:60px;
+	padding-right:60px;
+}
+
+.AboutUUs{
+	border-left:1px solid #80619b;
+	padding-right:1px;
+}
+
+.end {
+	color:#a369c4;
+	height:86px;
+	background-color:#302340;
+	padding-left:550px;
+	padding-top:31px;
+}
+ 
+ .a2 {
+ 	padding-left:53px;
+ }
+
+ .end a {
+ 	color:#a369c4;
+ }

@@ -1,0 +1,319 @@
+html , body {
+	width:auto;
+	height:auto;
+	margin:0px;
+	padding:0px;
+	overflow-x:hidden;
+}
+.nav-bari {
+	margin-bottom:33px;
+	height:286px;
+	background-color:#302340;
+	padding-top:33px;
+
+	
+}
+.nav-bari ul {
+	margin:0 auto;
+	list-style-type:none;
+	padding-left:636px;
+	font-family:"Myriad Pro Regular";
+	font-size:15px;
+
+}
+
+.nav-bari ul li {
+	display:inline;
+
+}
+
+#c1 {
+	position:relative;
+	left:740px;
+	top:20px;
+}
+
+.sciencellogo img {
+	position:relative;
+	bottom:320px;
+	left:69px
+}
+
+#p1 {
+	position:relative;
+	bottom:360px;
+    right:974px;
+	color:#e5e5e5;
+	font-weight:bold;
+	font-size:40px;
+	font-family:"Arial Regular";
+
+}
+
+#p1 {
+	float:right;
+	clear:right;
+}
+
+.dics h2 {
+	position:relative;
+	left:69px;
+	bottom:325px;
+	color:#ffffff;
+	font-family:"Myriad Pro Regular";
+	font-size:40px;
+}
+
+#p2 {
+	position:relative;
+	left:69px;
+	bottom:335px;
+	color:#9688a7;
+	font-size:13px;
+	line-height:18px;
+	padding-top:0px;
+	font-family:"Arial Regular";
+}
+
+#p2 a {
+	text-decoration:none;
+	color:#a369c4;
+}
+.home,
+.researches,
+.services,
+.events {
+	border-right:1px solid #80619b;
+	padding-right:1px;	
+}
+
+.AboutUs{
+	border-left:1px solid #80619b;
+	padding-right:1px;
+
+}
+
+
+
+.AboutUs {
+	position:relative;
+	right:5px;
+}
+
+
+li a {
+	text-decoration:none;
+	color:#9e90ad;
+	padding-left:15px;
+	padding-right:15px;
+}
+
+ul li a button {
+	color:#674086;
+
+} 
+.jumbo {
+    background-color: #f5f5f5; 
+    margin-top:-50px;
+    height:280px;
+    font-family:"Arial Regular";
+    font-size:13px;
+
+}
+
+.firsth1p h1 {
+	color:#a7a7a7;
+	padding-left:430px;
+	padding-top:42px;
+	font-family:"Myriad Pro Regular";
+}
+
+.firsth1p p {
+	padding-left:430px;
+	color:#4e4e4e;
+	line-height:20px;
+	font-family:"Myriad Pro Regular";
+}
+
+.secondh1p h1 {
+	color:#4e4e4e;
+	margin-top:-163px;
+	padding-left:70px;
+	font-family:"Myriad Pro Regular";
+}
+
+#firsth3 {
+	color:#4e4e4e;
+	padding-left:70px;
+	font-family:"Myriad Pro Regular";
+}
+#firstp {
+	color:#4e4e4e;
+	padding-left:160px;
+	margin-top:-33px;
+	font-family:"Myriad Pro Regular";
+
+}
+
+#secondh3 {
+	color:#4e4e4e;
+	padding-left:70px;
+	font-family:"Myriad Pro Regular";
+}
+#secondp {
+	color:#4e4e4e;
+	padding-left:160px;
+	margin-top:-33px;
+	font-family:"Myriad Pro Regular";
+}
+#thirdh3 {
+	color:#4e4e4e;
+	padding-left:70px;
+	font-family:"Myriad Pro Regular";
+}
+#thirdp {
+	color:#4e4e4e;
+	padding-left:160px;
+	margin-top:-33px;
+	font-family:"Myriad Pro Regular";
+}
+#fourthh3 {
+	color:#4e4e4e;
+	padding-left:70px;
+	font-family:"Myriad Pro Regular";
+}
+#fourthp {
+	color:#4e4e4e;
+	padding-left:160px;
+	margin-top:-33px;
+	font-family:"Myriad Pro Regular";
+}
+#fifthh3 {
+	color:#4e4e4e;
+	padding-left:70px;
+	font-family:"Myriad Pro Regular";
+}
+#fifthp {
+	color:#4e4e4e;
+	padding-left:160px;
+	margin-top:-33px;
+	font-family:"Myriad Pro Regular";
+}
+.contact h2 {
+   color:#959595;
+   padding-top:20px;
+   padding-left:70px;
+}
+
+#yourname {
+	
+	padding-left:70px;
+	padding-top:10px;
+}
+#youremail {
+
+	padding-left:70px;
+	padding-top:20px;
+}
+
+#yourmessage {
+	padding-left:70px;
+	padding-top:20px;
+}
+
+#yourname input {
+	
+	width:321px;
+	height:24px;
+	margin-left:38px;
+}
+
+#youremail input {
+	position:relative;
+	bottom:13px;
+	width:321px;
+	height:24px;
+	margin-left:33px;
+	
+}
+
+#yourmessage input{
+	position:relative;
+	bottom:25px;
+    width:756px;
+	height:360px;
+	margin-left:20px;
+	
+}
+
+#messageLabel {
+	position:relative;
+	bottom:193px;
+}
+
+#email {
+	position:relative;
+	bottom:10px;
+}
+
+#ca {
+	position:relative;
+	left:893px;
+	bottom:1px;
+	color:#a369c4;
+}
+
+#caa {
+	position:relative;
+	left:748px;
+	bottom:1px;
+	color:#a369c4;
+}
+
+.jumbo2 {
+    background-color: #f5f5f5; 
+    color: black;
+    margin-top:56px;
+    height:35px;
+    padding-left:53px;
+    padding-top:20px; 
+    font-family:"Myriad Pro Regular";
+    font-size:13px
+
+}
+
+.jumbo2 ul {
+	margin:0 auto;	
+
+	
+}
+
+.jumbo2 ul li {
+	display:inline;	
+
+}
+.jumbo2 li a {
+	color:#4e4e4e;
+	padding-left:60px;
+	padding-right:60px;
+}
+.AboutUUS{
+	border-left:1px solid #80619b;
+	padding-right:1px;
+}
+.end {
+	color:#4e4e4e;
+	height:72px;
+	background-color:#302340;
+	padding-left:550px;
+	padding-top:31px;
+}
+ 
+ .a2 {
+ 	padding-left:53px;
+}
+
+ .end a {
+ 	color:#4e4e4e;
+ }
+
